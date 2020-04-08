@@ -61,7 +61,7 @@ Source The dataset is publically available on the Kaggle website, and it is from
 [Python Project file](https://github.com/anuraglahon16/Project-A-STUDY-TO-PREDICT-HEART-DISEASES-AND-THE-FACTORS-CAUSING-THEM/blob/master/Project%20.ipynb)
 
 ## Project Presentation file :
-[Presentation file] (https://github.com/anuraglahon16/Project-A-STUDY-TO-PREDICT-HEART-DISEASES-AND-THE-FACTORS-CAUSING-THEM/blob/master/Presentation.pptx)
+[Presentation file](https://github.com/anuraglahon16/Project-A-STUDY-TO-PREDICT-HEART-DISEASES-AND-THE-FACTORS-CAUSING-THEM/blob/master/Presentation.pptx)
 
 ## Video :
 https://www.youtube.com/watch?v=WsLfQEeY2-8&t=202s
