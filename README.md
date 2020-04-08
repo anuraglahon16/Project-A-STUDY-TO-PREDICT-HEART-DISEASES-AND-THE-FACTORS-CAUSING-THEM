@@ -54,6 +54,9 @@ Source The dataset is publically available on the Kaggle website, and it is from
 ## Response variable ( target)
 • 10 year risk of coronary heart disease CHD (binary: “1”, means “Yes”, “0” means “No”)
 
+## Documentation:
+[Project Documentation](https://github.com/anuraglahon16/Project-A-STUDY-TO-PREDICT-HEART-DISEASES-AND-THE-FACTORS-CAUSING-THEM/blob/master/Project%20documentation%20Final.docx)
+
 ## Video :
 https://www.youtube.com/watch?v=WsLfQEeY2-8&t=202s
 
