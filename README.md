@@ -57,6 +57,9 @@ Source The dataset is publically available on the Kaggle website, and it is from
 ## Video :
 https://www.youtube.com/watch?v=WsLfQEeY2-8&t=202s
 
+## Blog :
+https://medium.com/@anuraglahonmba/a-study-to-predict-heart-diseases-and-the-factors-causing-them-838f5fbb382a
+
 
 ## Summary
 1.For the given dataset, Logistic Regression performs better on testing dataset than KNN classifier and Random Forest Classifier.
