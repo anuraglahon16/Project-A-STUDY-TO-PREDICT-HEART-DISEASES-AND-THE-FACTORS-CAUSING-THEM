@@ -54,6 +54,9 @@ Source The dataset is publically available on the Kaggle website, and it is from
 ## Response variable ( target)
 • 10 year risk of coronary heart disease CHD (binary: “1”, means “Yes”, “0” means “No”)
 
+## Video :
+https://www.youtube.com/watch?v=WsLfQEeY2-8&t=202s
+
 
 ## Summary
 1.For the given dataset, Logistic Regression performs better on testing dataset than KNN classifier and Random Forest Classifier.
