@@ -73,6 +73,8 @@ Source The dataset is publically available on the Kaggle website, and it is from
 https://www.youtube.com/watch?v=WsLfQEeY2-8&t=202s
 
 ## Blog :
+![](https://github.com/anuraglahon16/Project-A-STUDY-TO-PREDICT-HEART-DISEASES-AND-THE-FACTORS-CAUSING-THEM/blob/master/images/download%20(2).png)
+
 https://medium.com/@anuraglahonmba/a-study-to-predict-heart-diseases-and-the-factors-causing-them-838f5fbb382a
 
 
