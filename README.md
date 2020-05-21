@@ -14,7 +14,8 @@ Feature Selection
 Modeling and Evaluation
 
 ## Introduction¶
-World Health Organization has estimated 12 million deaths occur worldwide, every year due to Heart diseases. Half the deaths in the United States and other developed countries are due to cardio vascular diseases. The early prognosis of cardiovascular diseases can aid in making decisions on lifestyle changes in high risk patients and in turn reduce the complications. This research intends to pinpoint the most relevant/risk factors of heart disease as well as predict the overall risk using logistic regression
+World Health Organization has estimated 12 million deaths occur worldwide, every year due to Heart diseases. Half the deaths in the United States and other developed countries are due to cardio vascular diseases. The early prognosis of cardiovascular diseases can aid in making decisions on lifestyle changes in high risk patients and in turn reduce the complications. This research intends to pinpoint the most relevant/risk factors of heart disease as well as predict the overall risk using logistic regression.
+
 ![](https://github.com/anuraglahon16/Project-A-STUDY-TO-PREDICT-HEART-DISEASES-AND-THE-FACTORS-CAUSING-THEM/blob/master/images/download%20(1).jpg)
 
 ## Data Preparation
